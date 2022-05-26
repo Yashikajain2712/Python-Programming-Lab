@@ -1,0 +1,4 @@
+import random as rd
+a=int(input("enter the lower range : "))
+b=int(input("enter the upper range : "))
+print(rd.randint(a,b))
