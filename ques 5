@@ -1,0 +1,3 @@
+a=open("f.txt","r")
+content=a.readlines()
+print(content)
