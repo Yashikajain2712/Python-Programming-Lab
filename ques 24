@@ -1,0 +1,4 @@
+d=lambda x:x*x
+t=lambda x:x*x*x
+a=int(input("enter a value : "))
+print(d(a),t(a))
