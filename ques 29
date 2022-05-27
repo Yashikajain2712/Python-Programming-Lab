@@ -1,0 +1,5 @@
+import random as yashika
+out=yashika.random()
+a=str(out)[-4:]
+print(a)
+print(out)
